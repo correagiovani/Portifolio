@@ -1,0 +1,30 @@
+Ambiente de configuração é o ambiente direto do Java; 
+IDE de Desenvolvimento para o curso é o IJ = Intellij;
+Tutorial de Java; 
+    Java tutorial - The Java (oracle.java.com);
+Fortemente tipada 
+Sting - Primitive Data Types 
+    Documentação do Java; 
+
+Operadores Booleanos 
+Operadores && (AND) - para ser true, todos os operadores precisam ser true;
+Operadores || (OR) - para ser true, basta que um dos valores seja true; caso seja false, será false; 
+
+Estruturas Condicionais
+    If- Else 
+    switch - case (combinações diferentes) 
+
+Manipulação de Strings 
+    Precisamos definir se a diferença entre as letras Maiúsculas e Minúsculas são fatores decisivos; 
+
+Assim como no Python é necessário realizar a importação de todas as bibliotecas; 
+
+Vetores - array 
+Não podemos misturar números e textos 
+tamanho é imutável; 
+são orientados a indíces 
+    o primeiro indíce é "0"
+
+Escopo de Variáveis é definido pelas "{"
+
+
